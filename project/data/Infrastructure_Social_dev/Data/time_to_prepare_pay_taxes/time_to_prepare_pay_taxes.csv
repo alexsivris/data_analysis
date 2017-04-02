@@ -1,0 +1,229 @@
+,,,,,2005,2006,2007,2008,2009
+1,EAP,East Asia & Pacific,IC.TAX.DURS,Time to prepare and pay taxes (hours),311.10,311.90,295.20,269.55,2.43150
+2,ECA,Europe & Central Asia,IC.TAX.DURS,Time to prepare and pay taxes (hours),460.36,468.73,463.77,372.74,3.64957
+3,EMU,Euro area,IC.TAX.DURS,Time to prepare and pay taxes (hours),229.85,217.57,219.43,206.13,1.97400
+4,HIC,High income,IC.TAX.DURS,Time to prepare and pay taxes (hours),198.37,181.39,182.35,180.49,1.69809
+5,HPC,Heavily indebted poor countries (HIPC),IC.TAX.DURS,Time to prepare and pay taxes (hours),350.13,342.38,340.69,330.15,3.23103
+6,LAC,Latin America & Caribbean,IC.TAX.DURS,Time to prepare and pay taxes (hours),439.75,441.68,429.79,428.43,4.18929
+7,LDC,Least developed countries: UN classification,IC.TAX.DURS,Time to prepare and pay taxes (hours),290.22,284.96,278.70,270.89,2.51957
+8,LIC,Low income,IC.TAX.DURS,Time to prepare and pay taxes (hours),315.79,310.60,309.95,299.05,2.90725
+9,LMC,Lower middle income,IC.TAX.DURS,Time to prepare and pay taxes (hours),401.55,407,398.40,345.35,3.31926
+10,LMY,Low & middle income,IC.TAX.DURS,Time to prepare and pay taxes (hours),367.37,368.01,361.33,337.39,3.26103
+11,MIC,Middle income,IC.TAX.DURS,Time to prepare and pay taxes (hours),388.55,392.19,382.97,353.36,3.40844
+12,MNA,Middle East & North Africa,IC.TAX.DURS,Time to prepare and pay taxes (hours),280.83,288.50,298.08,294.75,2.75500
+13,NOC,High income: nonOECD,IC.TAX.DURS,Time to prepare and pay taxes (hours),150.47,125,132.37,140,1.37050
+14,OEC,High income: OECD,IC.TAX.DURS,Time to prepare and pay taxes (hours),226,221.07,217.52,210.48,1.94074
+15,SAS,South Asia,IC.TAX.DURS,Time to prepare and pay taxes (hours),304.63,304.63,305.50,293.25,2.84500
+16,SSA,Sub-Saharan Africa,IC.TAX.DURS,Time to prepare and pay taxes (hours),335.41,330.36,324.84,312.04,3.06244
+17,UMC,Upper middle income,IC.TAX.DURS,Time to prepare and pay taxes (hours),372.14,373.50,363.50,363.67,3.52310
+18,WLD,World,IC.TAX.DURS,Time to prepare and pay taxes (hours),327.78,320.59,315.85,297.09,2.85962
+19,AFG,Afghanistan,IC.TAX.DURS,Time to prepare and pay taxes (hours),275,275,275,275,2.75000
+20,ALB,Albania,IC.TAX.DURS,Time to prepare and pay taxes (hours),240,240,240,244,2.44000
+21,DZA,Algeria,IC.TAX.DURS,Time to prepare and pay taxes (hours),451,451,451,451,4.51000
+22,ASM,American Samoa,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+23,ADO,Andorra,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+24,AGO,Angola,IC.TAX.DURS,Time to prepare and pay taxes (hours),272,272,272,272,2.72000
+25,ATG,Antigua and Barbuda,IC.TAX.DURS,Time to prepare and pay taxes (hours),184,184,184,207,2.07000
+26,ARG,Argentina,IC.TAX.DURS,Time to prepare and pay taxes (hours),453,453,453,453,4.53000
+27,ARM,Armenia,IC.TAX.DURS,Time to prepare and pay taxes (hours),958,958,958,958,9.58000
+28,ABW,Aruba,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+29,AUS,Australia,IC.TAX.DURS,Time to prepare and pay taxes (hours),107,107,107,107,1.07000
+30,AUT,Austria,IC.TAX.DURS,Time to prepare and pay taxes (hours),170,170,170,170,1.70000
+31,AZE,Azerbaijan,IC.TAX.DURS,Time to prepare and pay taxes (hours),756,"1,000",952,376,3.76000
+32,BHS,Bahamas The,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,58,58,5.80000
+33,BHR,Bahrain,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,36,36,3.60000
+34,BGD,Bangladesh,IC.TAX.DURS,Time to prepare and pay taxes (hours),400,400,400,302,3.02000
+35,BRB,Barbados,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+36,BLR,Belarus,IC.TAX.DURS,Time to prepare and pay taxes (hours),987,987,987,987,9
+37,BEL,Belgium,IC.TAX.DURS,Time to prepare and pay taxes (hours),60,60,156,156,1.56000
+38,BLZ,Belize,IC.TAX.DURS,Time to prepare and pay taxes (hours),147,147,147,147,1.47000
+39,BEN,Benin,IC.TAX.DURS,Time to prepare and pay taxes (hours),270,270,270,270,2.70000
+40,BMU,Bermuda,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+41,BTN,Bhutan,IC.TAX.DURS,Time to prepare and pay taxes (hours),274,274,274,274,2.74000
+42,BOL,Bolivia,IC.TAX.DURS,Time to prepare and pay taxes (hours),"1,080","1,080","1,080","1,080",1.08000
+43,BIH,Bosnia and Herzegovina,IC.TAX.DURS,Time to prepare and pay taxes (hours),368,368,368,428,4.22000
+44,BWA,Botswana,IC.TAX.DURS,Time to prepare and pay taxes (hours),140,140,140,140,1.40000
+45,BRA,Brazil,IC.TAX.DURS,Time to prepare and pay taxes (hours),"2,600","2,600","2,600","2,600",2.60000
+46,BRN,Brunei Darussalam,IC.TAX.DURS,Time to prepare and pay taxes (hours),,144,144,144,1.44000
+47,BGR,Bulgaria,IC.TAX.DURS,Time to prepare and pay taxes (hours),616,616,616,616,6.16000
+48,BFA,Burkina Faso,IC.TAX.DURS,Time to prepare and pay taxes (hours),270,270,270,270,2.70000
+49,BDI,Burundi,IC.TAX.DURS,Time to prepare and pay taxes (hours),140,140,140,140,1.40000
+50,KHM,Cambodia,IC.TAX.DURS,Time to prepare and pay taxes (hours),137,137,137,137,1.73000
+51,CMR,Cameroon,IC.TAX.DURS,Time to prepare and pay taxes (hours),"1,400","1,400","1,400","1,400",1.40000
+52,CAN,Canada,IC.TAX.DURS,Time to prepare and pay taxes (hours),119,119,119,119,1.19000
+53,CPV,Cape Verde,IC.TAX.DURS,Time to prepare and pay taxes (hours),100,100,100,100,1
+54,CYM,Cayman Islands,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+55,CAF,Central African Republic,IC.TAX.DURS,Time to prepare and pay taxes (hours),504,504,504,504,5.04000
+56,TCD,Chad,IC.TAX.DURS,Time to prepare and pay taxes (hours),122,122,122,122,1.22000
+57,CHI,Channel Islands,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+58,CHL,Chile,IC.TAX.DURS,Time to prepare and pay taxes (hours),316,316,316,316,3.16000
+59,CHN,China,IC.TAX.DURS,Time to prepare and pay taxes (hours),872,872,872,504,5.04000
+60,COL,Colombia,IC.TAX.DURS,Time to prepare and pay taxes (hours),456,456,268,256,2.08000
+61,COM,Comoros,IC.TAX.DURS,Time to prepare and pay taxes (hours),100,100,100,100,1
+62,ZAR,Congo Dem. Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),308,308,308,308,3.08000
+63,COG,Congo Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),606,606,606,606,6.06000
+64,CRI,Costa Rica,IC.TAX.DURS,Time to prepare and pay taxes (hours),402,402,402,282,2.82000
+65,CIV,Cote d'Ivoire,IC.TAX.DURS,Time to prepare and pay taxes (hours),270,270,270,270,2.70000
+66,HRV,Croatia,IC.TAX.DURS,Time to prepare and pay taxes (hours),232,196,196,196,1.96000
+67,CUB,Cuba,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+68,CYP,Cyprus,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,149,1.49000
+69,CZE,Czech Republic,IC.TAX.DURS,Time to prepare and pay taxes (hours),930,930,808,930,6.13000
+70,DNK,Denmark,IC.TAX.DURS,Time to prepare and pay taxes (hours),135,135,135,135,1.35000
+71,DJI,Djibouti,IC.TAX.DURS,Time to prepare and pay taxes (hours),114,114,114,114,1.14000
+72,DMA,Dominica,IC.TAX.DURS,Time to prepare and pay taxes (hours),147,147,147,120,1.20000
+73,DOM,Dominican Republic,IC.TAX.DURS,Time to prepare and pay taxes (hours),232,286,286,480,3.24000
+74,ECU,Ecuador,IC.TAX.DURS,Time to prepare and pay taxes (hours),600,600,600,600,6
+75,EGY,Egypt Arab Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),504,596,711,711,4.80000
+76,SLV,El Salvador,IC.TAX.DURS,Time to prepare and pay taxes (hours),320,320,320,320,3.20000
+77,GNQ,Equatorial Guinea,IC.TAX.DURS,Time to prepare and pay taxes (hours),296,296,296,296,2.96000
+78,ERI,Eritrea,IC.TAX.DURS,Time to prepare and pay taxes (hours),216,216,216,216,2.16000
+79,EST,Estonia,IC.TAX.DURS,Time to prepare and pay taxes (hours),81,81,81,81,8.10000
+80,ETH,Ethiopia,IC.TAX.DURS,Time to prepare and pay taxes (hours),212,198,198,198,1.98000
+81,FRO,Faeroe Islands,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+82,FJI,Fiji,IC.TAX.DURS,Time to prepare and pay taxes (hours),140,140,140,140,1.50000
+83,FIN,Finland,IC.TAX.DURS,Time to prepare and pay taxes (hours),269,269,269,269,2.43000
+84,FRA,France,IC.TAX.DURS,Time to prepare and pay taxes (hours),132,132,132,132,1.32000
+85,PYF,French Polynesia,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+86,GAB,Gabon,IC.TAX.DURS,Time to prepare and pay taxes (hours),272,272,272,272,2.72000
+87,GMB,Gambia The,IC.TAX.DURS,Time to prepare and pay taxes (hours),376,376,376,376,3.76000
+88,GEO,Georgia,IC.TAX.DURS,Time to prepare and pay taxes (hours),448,387,387,387,3.87000
+89,DEU,Germany,IC.TAX.DURS,Time to prepare and pay taxes (hours),196,196,196,196,1.96000
+90,GHA,Ghana,IC.TAX.DURS,Time to prepare and pay taxes (hours),304,304,304,224,2.24000
+91,GRC,Greece,IC.TAX.DURS,Time to prepare and pay taxes (hours),264,264,264,224,2.24000
+92,GRL,Greenland,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+93,GRD,Grenada,IC.TAX.DURS,Time to prepare and pay taxes (hours),140,140,140,140,1.40000
+94,GUM,Guam,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+95,GTM,Guatemala,IC.TAX.DURS,Time to prepare and pay taxes (hours),344,344,344,344,3.44000
+96,GIN,Guinea,IC.TAX.DURS,Time to prepare and pay taxes (hours),416,416,416,416,4.16000
+97,GNB,Guinea-Bissau,IC.TAX.DURS,Time to prepare and pay taxes (hours),208,208,208,208,2.08000
+98,GUY,Guyana,IC.TAX.DURS,Time to prepare and pay taxes (hours),288,288,288,288,2.88000
+99,HTI,Haiti,IC.TAX.DURS,Time to prepare and pay taxes (hours),160,160,160,160,1.60000
+100,HND,Honduras,IC.TAX.DURS,Time to prepare and pay taxes (hours),424,424,424,224,2.24000
+101,HKG,Hong Kong SAR China,IC.TAX.DURS,Time to prepare and pay taxes (hours),80,80,80,80,8
+102,HUN,Hungary,IC.TAX.DURS,Time to prepare and pay taxes (hours),340,340,340,330,3.30000
+103,ISL,Iceland,IC.TAX.DURS,Time to prepare and pay taxes (hours),140,140,140,140,1.40000
+104,IND,India,IC.TAX.DURS,Time to prepare and pay taxes (hours),264,264,271,271,2.71000
+105,IDN,Indonesia,IC.TAX.DURS,Time to prepare and pay taxes (hours),560,576,266,266,2.66000
+106,IRN,Iran Islamic Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),344,344,344,344,3.44000
+107,IRQ,Iraq,IC.TAX.DURS,Time to prepare and pay taxes (hours),312,312,312,312,3.12000
+108,IRL,Ireland,IC.TAX.DURS,Time to prepare and pay taxes (hours),76,76,76,76,7.60000
+109,IMY,Isle of Man,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+110,ISR,Israel,IC.TAX.DURS,Time to prepare and pay taxes (hours),230,230,230,230,2.30000
+111,ITA,Italy,IC.TAX.DURS,Time to prepare and pay taxes (hours),360,360,360,334,3.34000
+112,JAM,Jamaica,IC.TAX.DURS,Time to prepare and pay taxes (hours),414,414,414,414,4.14000
+113,JPN,Japan,IC.TAX.DURS,Time to prepare and pay taxes (hours),315,350,350,355,3.55000
+114,JOR,Jordan,IC.TAX.DURS,Time to prepare and pay taxes (hours),101,101,101,101,1.01000
+115,KAZ,Kazakhstan,IC.TAX.DURS,Time to prepare and pay taxes (hours),271,271,271,271,2.71000
+116,KEN,Kenya,IC.TAX.DURS,Time to prepare and pay taxes (hours),372,432,432,417,4.17000
+117,KIR,Kiribati,IC.TAX.DURS,Time to prepare and pay taxes (hours),120,120,120,120,1.20000
+118,PRK,Korea Dem. Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+119,KOR,Korea Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),290,290,290,250,2.50000
+120,KSV,Kosovo,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,163,1.63000
+121,KWT,Kuwait,IC.TAX.DURS,Time to prepare and pay taxes (hours),118,118,118,118,1.18000
+122,KGZ,Kyrgyz Republic,IC.TAX.DURS,Time to prepare and pay taxes (hours),202,202,202,202,2.02000
+123,LAO,Lao PDR,IC.TAX.DURS,Time to prepare and pay taxes (hours),672,672,672,560,3.62000
+124,LVA,Latvia,IC.TAX.DURS,Time to prepare and pay taxes (hours),320,320,279,279,2.79000
+125,LBN,Lebanon,IC.TAX.DURS,Time to prepare and pay taxes (hours),180,180,180,180,1.80000
+126,LSO,Lesotho,IC.TAX.DURS,Time to prepare and pay taxes (hours),564,564,342,324,3.24000
+127,LBR,Liberia,IC.TAX.DURS,Time to prepare and pay taxes (hours),,158,158,158,1.58000
+128,LBY,Libya,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+129,LIE,Liechtenstein,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+130,LTU,Lithuania,IC.TAX.DURS,Time to prepare and pay taxes (hours),166,166,166,166,1.66000
+131,LUX,Luxembourg,IC.TAX.DURS,Time to prepare and pay taxes (hours),,58,58,59,5.90000
+132,MAC,Macao SAR China,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+133,MKD,Macedonia FYR,IC.TAX.DURS,Time to prepare and pay taxes (hours),96,96,96,75,7.50000
+134,MDG,Madagascar,IC.TAX.DURS,Time to prepare and pay taxes (hours),400,304,238,238,2.01000
+135,MWI,Malawi,IC.TAX.DURS,Time to prepare and pay taxes (hours),370,370,370,292,1.57000
+136,MYS,Malaysia,IC.TAX.DURS,Time to prepare and pay taxes (hours),190,190,166,145,1.45000
+137,MDV,Maldives,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+138,MLI,Mali,IC.TAX.DURS,Time to prepare and pay taxes (hours),270,270,270,270,2.70000
+139,MLT,Malta,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+140,MHL,Marshall Islands,IC.TAX.DURS,Time to prepare and pay taxes (hours),128,128,128,128,1.28000
+141,MRT,Mauritania,IC.TAX.DURS,Time to prepare and pay taxes (hours),696,696,696,696,6.96000
+142,MUS,Mauritius,IC.TAX.DURS,Time to prepare and pay taxes (hours),161,161,161,161,1.61000
+143,MYT,Mayotte,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+144,MEX,Mexico,IC.TAX.DURS,Time to prepare and pay taxes (hours),552,552,485,549,5.17000
+145,FSM,Micronesia Fed. Sts.,IC.TAX.DURS,Time to prepare and pay taxes (hours),128,128,128,128,1.28000
+146,MDA,Moldova,IC.TAX.DURS,Time to prepare and pay taxes (hours),234,232,234,234,2.28000
+147,MCO,Monaco,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+148,MNG,Mongolia,IC.TAX.DURS,Time to prepare and pay taxes (hours),204,204,204,204,1.92000
+149,MNE,Montenegro,IC.TAX.DURS,Time to prepare and pay taxes (hours),372,372,372,372,3.72000
+150,MAR,Morocco,IC.TAX.DURS,Time to prepare and pay taxes (hours),358,358,358,358,3.58000
+151,MOZ,Mozambique,IC.TAX.DURS,Time to prepare and pay taxes (hours),230,230,230,230,2.30000
+152,MMR,Myanmar,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+153,NAM,Namibia,IC.TAX.DURS,Time to prepare and pay taxes (hours),375,375,375,375,3.75000
+154,NPL,Nepal,IC.TAX.DURS,Time to prepare and pay taxes (hours),408,408,408,408,3.38000
+155,NLD,Netherlands,IC.TAX.DURS,Time to prepare and pay taxes (hours),250,250,180,180,1.64000
+156,ANT,Netherlands Antilles,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+157,NCL,New Caledonia,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+158,NZL,New Zealand,IC.TAX.DURS,Time to prepare and pay taxes (hours),70,70,70,70,7
+159,NIC,Nicaragua,IC.TAX.DURS,Time to prepare and pay taxes (hours),240,240,240,240,2.40000
+160,NER,Niger,IC.TAX.DURS,Time to prepare and pay taxes (hours),270,270,270,270,2.70000
+161,NGA,Nigeria,IC.TAX.DURS,Time to prepare and pay taxes (hours),"1,120","1,120","1,120",938,9.38000
+162,MNP,Northern Mariana Islands,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+163,NOR,Norway,IC.TAX.DURS,Time to prepare and pay taxes (hours),87,87,87,87,8.70000
+164,OMN,Oman,IC.TAX.DURS,Time to prepare and pay taxes (hours),52,52,62,62,6.20000
+165,PAK,Pakistan,IC.TAX.DURS,Time to prepare and pay taxes (hours),560,560,560,560,5.60000
+166,PLW,Palau,IC.TAX.DURS,Time to prepare and pay taxes (hours),128,128,128,128,1.28000
+167,PAN,Panama,IC.TAX.DURS,Time to prepare and pay taxes (hours),560,560,482,482,4.82000
+168,PNG,Papua New Guinea,IC.TAX.DURS,Time to prepare and pay taxes (hours),206,206,206,194,1.94000
+169,PRY,Paraguay,IC.TAX.DURS,Time to prepare and pay taxes (hours),328,328,328,328,3.28000
+170,PER,Peru,IC.TAX.DURS,Time to prepare and pay taxes (hours),424,424,424,424,3.80000
+171,PHL,Philippines,IC.TAX.DURS,Time to prepare and pay taxes (hours),195,195,195,195,1.95000
+172,POL,Poland,IC.TAX.DURS,Time to prepare and pay taxes (hours),418,418,418,395,3.95000
+173,PRT,Portugal,IC.TAX.DURS,Time to prepare and pay taxes (hours),328,328,328,328,3.28000
+174,PRI,Puerto Rico,IC.TAX.DURS,Time to prepare and pay taxes (hours),140,140,140,218,2.18000
+175,QAT,Qatar,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,36,36,3.60000
+176,ROM,Romania,IC.TAX.DURS,Time to prepare and pay taxes (hours),190,193,202,202,2.02000
+177,RUS,Russian Federation,IC.TAX.DURS,Time to prepare and pay taxes (hours),448,448,448,448,3.20000
+178,RWA,Rwanda,IC.TAX.DURS,Time to prepare and pay taxes (hours),168,168,168,160,1.60000
+179,WSM,Samoa,IC.TAX.DURS,Time to prepare and pay taxes (hours),224,224,224,224,2.24000
+180,SMR,San Marino,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+181,STP,Sao Tome and Principe,IC.TAX.DURS,Time to prepare and pay taxes (hours),424,424,424,424,4.24000
+182,SAU,Saudi Arabia,IC.TAX.DURS,Time to prepare and pay taxes (hours),69,79,79,79,7.90000
+183,SEN,Senegal,IC.TAX.DURS,Time to prepare and pay taxes (hours),696,696,696,666,6.66000
+184,SRB,Serbia,IC.TAX.DURS,Time to prepare and pay taxes (hours),279,279,279,279,2.79000
+185,SYC,Seychelles,IC.TAX.DURS,Time to prepare and pay taxes (hours),76,76,76,76,7.60000
+186,SLE,Sierra Leone,IC.TAX.DURS,Time to prepare and pay taxes (hours),399,399,399,399,3.57000
+187,SGP,Singapore,IC.TAX.DURS,Time to prepare and pay taxes (hours),49,49,49,84,8.40000
+188,SVK,Slovak Republic,IC.TAX.DURS,Time to prepare and pay taxes (hours),325,325,325,325,2.57000
+189,SVN,Slovenia,IC.TAX.DURS,Time to prepare and pay taxes (hours),260,260,260,260,2.60000
+190,SLB,Solomon Islands,IC.TAX.DURS,Time to prepare and pay taxes (hours),80,80,80,80,8
+191,SOM,Somalia,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+192,ZAF,South Africa,IC.TAX.DURS,Time to prepare and pay taxes (hours),350,350,350,200,2
+193,ESP,Spain,IC.TAX.DURS,Time to prepare and pay taxes (hours),298,298,298,234,2.13000
+194,LKA,Sri Lanka,IC.TAX.DURS,Time to prepare and pay taxes (hours),256,256,256,256,2.56000
+195,KNA,St. Kitts and Nevis,IC.TAX.DURS,Time to prepare and pay taxes (hours),172,172,172,172,1.55000
+196,LCA,St. Lucia,IC.TAX.DURS,Time to prepare and pay taxes (hours),71,71,71,61,9.20000
+197,VCT,St. Vincent and the Grenadines,IC.TAX.DURS,Time to prepare and pay taxes (hours),76,76,76,117,1.17000
+198,SDN,Sudan,IC.TAX.DURS,Time to prepare and pay taxes (hours),180,180,180,180,1.80000
+199,SUR,Suriname,IC.TAX.DURS,Time to prepare and pay taxes (hours),199,199,199,199,1.99000
+200,SWZ,Swaziland,IC.TAX.DURS,Time to prepare and pay taxes (hours),104,104,104,104,1.04000
+201,SWE,Sweden,IC.TAX.DURS,Time to prepare and pay taxes (hours),122,122,122,122,1.22000
+202,CHE,Switzerland,IC.TAX.DURS,Time to prepare and pay taxes (hours),63,63,63,63,6.30000
+203,SYR,Syrian Arab Republic,IC.TAX.DURS,Time to prepare and pay taxes (hours),336,336,336,336,3.36000
+204,TJK,Tajikistan,IC.TAX.DURS,Time to prepare and pay taxes (hours),224,224,224,224,2.24000
+205,TZA,Tanzania,IC.TAX.DURS,Time to prepare and pay taxes (hours),172,172,172,172,1.72000
+206,THA,Thailand,IC.TAX.DURS,Time to prepare and pay taxes (hours),264,264,264,264,2.64000
+207,TMP,Timor-Leste,IC.TAX.DURS,Time to prepare and pay taxes (hours),640,640,640,640,2.76000
+208,TGO,Togo,IC.TAX.DURS,Time to prepare and pay taxes (hours),270,270,270,270,2.70000
+209,TON,Tonga,IC.TAX.DURS,Time to prepare and pay taxes (hours),164,164,164,164,1.64000
+210,TTO,Trinidad and Tobago,IC.TAX.DURS,Time to prepare and pay taxes (hours),114,114,114,114,1.14000
+211,TUN,Tunisia,IC.TAX.DURS,Time to prepare and pay taxes (hours),268,268,268,228,2.28000
+212,TUR,Turkey,IC.TAX.DURS,Time to prepare and pay taxes (hours),254,254,223,223,2.23000
+213,TKM,Turkmenistan,IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+214,UGA,Uganda,IC.TAX.DURS,Time to prepare and pay taxes (hours),237,237,237,222,1.61000
+215,UKR,Ukraine,IC.TAX.DURS,Time to prepare and pay taxes (hours),"2,085","2,085","2,085",848,7.36000
+216,ARE,United Arab Emirates,IC.TAX.DURS,Time to prepare and pay taxes (hours),12,12,12,12,1.20000
+217,GBR,United Kingdom,IC.TAX.DURS,Time to prepare and pay taxes (hours),105,105,105,105,1.10000
+218,USA,United States,IC.TAX.DURS,Time to prepare and pay taxes (hours),325,325,325,187,1.87000
+219,URY,Uruguay,IC.TAX.DURS,Time to prepare and pay taxes (hours),304,304,304,336,3.36000
+220,UZB,Uzbekistan,IC.TAX.DURS,Time to prepare and pay taxes (hours),196,196,196,196,3.56000
+221,VUT,Vanuatu,IC.TAX.DURS,Time to prepare and pay taxes (hours),120,120,120,120,1.20000
+222,VEN,Venezuela RB,IC.TAX.DURS,Time to prepare and pay taxes (hours),864,864,864,864,8.64000
+223,VNM,Vietnam,IC.TAX.DURS,Time to prepare and pay taxes (hours),"1,050","1,050","1,050","1,050",1.05000
+224,VIR,Virgin Islands (U.S.),IC.TAX.DURS,Time to prepare and pay taxes (hours),,,,,
+225,WBG,West Bank and Gaza,IC.TAX.DURS,Time to prepare and pay taxes (hours),154,154,154,154,1.54000
+226,YEM,Yemen Rep.,IC.TAX.DURS,Time to prepare and pay taxes (hours),248,248,248,248,2.48000
+227,ZMB,Zambia,IC.TAX.DURS,Time to prepare and pay taxes (hours),132,132,132,132,1.32000
+228,ZWE,Zimbabwe,IC.TAX.DURS,Time to prepare and pay taxes (hours),216,216,256,256,2.70000

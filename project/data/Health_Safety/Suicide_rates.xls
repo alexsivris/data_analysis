@@ -1,0 +1,2490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns:o="urn:schemas-microsoft-com:office"
+          xmlns:x="urn:schemas-microsoft-com:excel"
+          xmlns:ss="urn:schemas-microsoft-com:spreadsheet"
+          xmlns:html="http://www.w3.org/TR/REC-html40"
+          xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+   <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+      <Author>Global Health Observatory</Author>
+      <Created>2016-06-17T17:22:07.893+02:00</Created>
+      <Company>World Health Organization</Company>
+      <Version>1.0</Version>
+   </DocumentProperties>
+   <Styles>
+      <Style ss:ID="Default" ss:Name="Normal">
+         <Alignment ss:Vertical="Top"/>
+         <Borders/>
+         <Font ss:Size="10"/>
+         <Interior/>
+         <NumberFormat/>
+         <Protection/>
+      </Style>
+      <Style ss:ID="Data" ss:Name="Data">
+         <Alignment ss:Vertical="Top"/>
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+         </Borders>
+         <Font ss:Size="10"/>
+         <Interior/>
+         <NumberFormat/>
+         <Protection/>
+      </Style>
+      <Style ss:ID="Header" ss:Name="Header">
+         <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+         </Borders>
+         <Font ss:Size="11" ss:Bold="1"/>
+         <Interior/>
+         <NumberFormat/>
+         <Protection/>
+      </Style>
+      <Style ss:ID="HeaderHyperlink" ss:Name="HeaderHyperlink">
+         <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+         </Borders>
+         <Font ss:Size="11" ss:Bold="1" ss:Color="#0000FF" ss:Underline="Single"/>
+         <Interior/>
+         <NumberFormat/>
+         <Protection/>
+      </Style>
+      <Style ss:ID="Bold" ss:Name="Bold">
+         <Alignment ss:Vertical="Top"/>
+         <Font ss:Bold="1"/>
+      </Style>
+      <Style ss:ID="Hyperlink" ss:Name="Hyperlink">
+         <Font ss:Color="#0000FF" ss:Underline="Single"/>
+      </Style>
+      <Style ss:ID="WordWrap" ss:Name="WordWrap">
+         <Alignment ss:WrapText="1"/>
+      </Style>
+   </Styles>
+   <Worksheet ss:Name="Data">
+      <Table>
+         <Row>
+            <Cell ss:StyleID="Header" ss:MergeDown="2">
+               <Data ss:Type="String"> </Data>
+            </Cell>
+            <Cell ss:Index="2" ss:MergeAcross="2"
+                  ss:HRef="http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=78"
+                  ss:StyleID="HeaderHyperlink">
+               <Data ss:Type="String">Age-standardized suicide rates (per 100 000)</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:Index="2" ss:MergeAcross="2" ss:StyleID="Header">
+               <Data ss:Type="String">2012</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:Index="2" ss:StyleID="Header">
+               <Data ss:Type="String">Both sexes</Data>
+            </Cell>
+            <Cell ss:StyleID="Header">
+               <Data ss:Type="String">Female</Data>
+            </Cell>
+            <Cell ss:StyleID="Header">
+               <Data ss:Type="String">Male</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Afghanistan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Albania</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Algeria</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Angola</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Argentina</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">17.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Armenia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Australia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Austria</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Azerbaijan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bahamas</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bahrain</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bangladesh</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Barbados</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Belarus</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">32.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Belgium</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">21.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Belize</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Benin</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bhutan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">17.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">23.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bolivia (Plurinational State of)</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bosnia and Herzegovina</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Botswana</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Brazil</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Brunei Darussalam</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Bulgaria</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Burkina Faso</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Burundi</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">23.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">34.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Cote d'Ivoire</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Cabo Verde</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Cambodia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Cameroon</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Canada</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Central African Republic</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Chad</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Chile</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">China</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Colombia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Comoros</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Congo</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Costa Rica</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Croatia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Cuba</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Cyprus</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Czech Republic</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">21.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Democratic Republic of the Congo</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Denmark</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Djibouti</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Dominican Republic</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Ecuador</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Egypt</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">El Salvador</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">23.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Equatorial Guinea</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Eritrea</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">25.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Estonia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Ethiopia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Fiji</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Finland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">22.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">France</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Gabon</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Gambia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Georgia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Germany</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Ghana</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Greece</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Guatemala</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Guinea</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Guinea-Bissau</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Guyana</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">44.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">22.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">70.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Haiti</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Honduras</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Hungary</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">32.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Iceland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">21.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">India</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">21.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">25.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Indonesia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Iran (Islamic Republic of)</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Iraq</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Ireland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Israel</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Italy</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Jamaica</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Japan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">26.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Jordan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Kazakhstan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">23.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">40.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Kenya</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Kuwait</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Kyrgyzstan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Lao People's Democratic Republic</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Latvia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">30.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Lebanon</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Lesotho</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Liberia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Libya</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Lithuania</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">28.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">51.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Luxembourg</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Madagascar</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Malawi</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">23.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Malaysia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Maldives</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Mali</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Malta</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Mauritania</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Mauritius</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Mexico</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Mongolia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Montenegro</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Morocco</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Mozambique</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">27.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">21.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">34.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Myanmar</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Namibia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Nepal</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">30.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Netherlands</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">New Zealand</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">14.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Nicaragua</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Niger</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Nigeria</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Norway</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Oman</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Pakistan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Panama</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Papua New Guinea</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Paraguay</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Peru</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Philippines</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Poland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">30.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Portugal</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Qatar</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Republic of Korea</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">28.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">41.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Republic of Moldova</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Romania</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Russian Federation</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">35.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Rwanda</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">17.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Saudi Arabia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Senegal</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Serbia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Sierra Leone</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Singapore</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Slovakia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Slovenia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Solomon Islands</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Somalia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">South Africa</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">South Sudan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">27.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Spain</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Sri Lanka</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">28.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">46.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Sudan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">17.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">23.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Suriname</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">27.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">44.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Swaziland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Sweden</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Switzerland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Syrian Arab Republic</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">0.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Tajikistan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.7</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Thailand</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.1</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">The former Yugoslav republic of Macedonia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Timor-Leste</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Togo</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Trinidad and Tobago</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Tunisia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Turkey</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">11.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Turkmenistan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">7.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">32.5</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Uganda</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">26.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Ukraine</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">16.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">30.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">United Arab Emirates</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.9</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">United Kingdom of Great Britain and Northern Ireland</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">6.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">United Republic of Tanzania</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">24.9</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.3</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">31.6</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">United States of America</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">19.4</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Uruguay</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">12.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.2</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Uzbekistan</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.5</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">13.2</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Venezuela (Bolivarian Republic of)</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.6</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">1.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Viet Nam</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">5.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">2.4</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">8.0</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Yemen</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">3.0</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">4.3</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Zambia</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">15.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">10.8</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">20.8</Data>
+            </Cell>
+         </Row>
+         <Row>
+            <Cell ss:StyleID="Header" ss:Index="1">
+               <Data ss:Type="String">Zimbabwe</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">18.1</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">9.7</Data>
+            </Cell>
+            <Cell ss:StyleID="Data">
+               <Data ss:Type="String">27.2</Data>
+            </Cell>
+         </Row>
+      </Table>
+   </Worksheet>
+</Workbook>
